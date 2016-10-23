@@ -1,0 +1,28 @@
+body {
+  background-color: #38003C; }
+
+main {
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  min-height: 600px;
+  background-color: white;
+  padding: 30px;
+  margin-top: 30px; }
+
+.btn-quantity {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: end;
+  justify-content: flex-end;
+  -webkit-box-flex: 1;
+  flex: 1; }
+
+.btn-quantity > a {
+  width: 22px;
+  height: 22px;
+  line-height: 22px; }
+
+.btn-quantity i {
+  font-size: 1rem;
+  line-height: 22px; }
+
+/*# sourceMappingURL=app.css.map */
